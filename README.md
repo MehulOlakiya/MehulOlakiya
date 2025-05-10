@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehul Olakiya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="center"  width="400" alt="coding" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif">
+<img align="right"  width="400" alt="coding" src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulolakiya&label=Profile%20views&color=0e75b6&style=flat" alt="mehulolakiya" /> </p>
 
